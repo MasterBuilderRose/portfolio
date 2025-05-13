@@ -38,7 +38,7 @@ p {
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 
 .hero p {
@@ -87,15 +87,10 @@ p {
     font-size: 44px;
   }
 
-h4 {
+h3 {
     font-size: 26px;
   }
 
-
- 
-  .hero {
-    padding: 80px 20px;
-  }
   .project-description {
     padding: 0;
     text-align: center;
@@ -142,7 +137,7 @@ h4 {
 }
 
 .work-section {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .work-section-content {
@@ -222,7 +217,7 @@ footer {
   border-radius: 10px;
 }
 
-h4 {
+h3 {
   font-size: 48px;
   line-height: 1.5;
 }
